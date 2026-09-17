@@ -5,8 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Channpreetk/DSA-Class/tree/master/0052-n-queens-ii) |
-## Algorithm X
-|  |
-| ------- |
-| [0052-n-queens-ii](https://github.com/Channpreetk/DSA-Class/tree/master/0052-n-queens-ii) |
+
 <!---LeetCode Topics End-->
