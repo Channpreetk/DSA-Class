@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Channpreetk/DSA-Class/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Channpreetk/DSA-Class/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Channpreetk/DSA-Class/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Channpreetk/DSA-Class/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Channpreetk/DSA-Class/tree/master/0052-n-queens-ii) |
 ## Database
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Channpreetk/DSA-Class/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Channpreetk/DSA-Class/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Channpreetk/DSA-Class/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Channpreetk/DSA-Class/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Channpreetk/DSA-Class/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Channpreetk/DSA-Class/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
